@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A full stack developer with a passion for data science and analytics</h3>
+<h3 align="center">I work on data analytics and science projects</h3>
 
 - 🔭 I’m currently working on [n](n)
 
